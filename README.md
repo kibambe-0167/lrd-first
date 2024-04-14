@@ -15,3 +15,8 @@ BCom Hons IS - Learning From Data - First Coding Assessment Jupyter Notebook
 - mean abs deviation??
 - median abs deviation??
 -
+
+
+
+
+
